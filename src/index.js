@@ -8,6 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    {/* <p style={{ color: "blue" }}>Brandon Bailey </p> */}
   </React.StrictMode>
 );
 
